@@ -1,0 +1,3 @@
+Hi this is me again, Christian Abusca, today [Day 2] I'm following this tutorial by freeCodeCamp that will help me make a snake game
+using Python with the library PyGame. I hope I can learn a lot from this project. Wish me luck.
+- 7:56 A.M
